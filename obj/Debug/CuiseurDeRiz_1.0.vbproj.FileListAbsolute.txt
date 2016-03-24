@@ -1,0 +1,10 @@
+C:\Users\SunShine\Desktop\CRI\CuiseurDeRiz_1.0\bin\Debug\CuiseurDeRiz_1.0.exe
+C:\Users\SunShine\Desktop\CRI\CuiseurDeRiz_1.0\bin\Debug\CuiseurDeRiz_1.0.pdb
+C:\Users\SunShine\Desktop\CRI\CuiseurDeRiz_1.0\bin\Debug\CuiseurDeRiz_1.0.xml
+C:\Users\SunShine\Desktop\CRI\CuiseurDeRiz_1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SunShine\Desktop\CRI\CuiseurDeRiz_1.0\obj\Debug\CuiseurDeRiz.Resources.resources
+C:\Users\SunShine\Desktop\CRI\CuiseurDeRiz_1.0\obj\Debug\CuiseurDeRiz_1.0.vbproj.GenerateResource.Cache
+C:\Users\SunShine\Desktop\CRI\CuiseurDeRiz_1.0\obj\Debug\CuiseurDeRiz_1.0.exe
+C:\Users\SunShine\Desktop\CRI\CuiseurDeRiz_1.0\obj\Debug\CuiseurDeRiz_1.0.xml
+C:\Users\SunShine\Desktop\CRI\CuiseurDeRiz_1.0\obj\Debug\CuiseurDeRiz_1.0.pdb
+C:\Users\SunShine\Desktop\CRI\CuiseurDeRiz_1.0\obj\Debug\CuiseurDeRiz.CuissonUtilisateur.resources

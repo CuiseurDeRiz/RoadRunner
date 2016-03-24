@@ -1,0 +1,3 @@
+﻿Module contrôleSignalSonore
+
+End Module
